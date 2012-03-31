@@ -35,12 +35,13 @@ How it works
 ============
 
  - wire your Arduino.
- - load the shetck.
+ - load the sketch.
  - run OpenOffice/LibreOffice with something like:
    soffice --impress --accept="socket,host=localhost,port=2002;urp;" presentazione\_arduino.odp
  - modify the python script, if needed (e.g.: to change the serial port).
  - run the python script to connect to the presentation.
  - start turning the potentiometer.
+ - watch in awe.
 
 Please refer to the code for anything else.
 Beware that it will not be accurate for very long slideshows.
@@ -56,6 +57,6 @@ License
 =======
 
 The code is released under the terms of the GPLv3 license.
-The presentation and circuit diagram are covered by a by-sa/3.0/
+The presentation and circuit diagram are covered by a by-sa/3.0
 creative commons license.
 

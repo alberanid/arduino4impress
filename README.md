@@ -1,9 +1,9 @@
 Arduino 4 Impress
 =================
 
-That's a very simple Arduino sketch and python code that can be used
+That's a very simple Arduino sketch and python script that can be used
 to control an OpenOffice/LibreOffice Impress presentation using an Arduino.
-Your slides will still suck, but everyone will have much more fun!
+Your slides will still suck, but everyone will have much more fun (of you)!
 
 Beware that this is just a draft, and not a mature project.
 

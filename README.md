@@ -10,7 +10,7 @@ Beware that this is just a draft, and not a mature project.
 Electronic
 ----------
 
-A potentiometer is used to browser through the slides of an _already running_
+A potentiometer is used to browse through the slides of an _already running_
 presentation.  Five LEDs are used to show the degree of progress along
 your presentation.
 
